@@ -1,0 +1,104 @@
+[
+  {
+    "Id": 1,
+    "Front": "AVV",
+    "Back": "Allgemeine Verwaltungsvorschrift.",
+    "Category": "Mathematik"
+  },
+  {
+    "Id": 2,
+    "Front": "DSGVO Grundsätze",
+    "Back": "Rechtmäßigkeit, Zweckbindung, Datenminimierung, Richtigkeit der Daten, Speicherbegrenzung, Integrität und Vertraulichkeit, Rechenschaftspflicht, ",
+    "Category": "Rechtswissen DSGVO"
+  },
+  {
+    "Id": 3,
+    "Front": "Leasingvertrag",
+    "Back": "Mietähnlicher Vertrag über die Nutzung eines Wirtschaftsguts gegen regelmäßige Zahlungen. Eigentum bleibt beim Leasinggeber.",
+    "Category": "Vertragsrecht, Finanzwesen"
+  },
+  {
+    "Id": 4,
+    "Front": "Fälligkeitsdarlehen",
+    "Back": "Darlehen, bei dem die gesamte Rückzahlung erst am Ende der Laufzeit erfolgt. Währenddessen nur Zinszahlungen.",
+    "Category": "Finanzwesen"
+  },
+  {
+    "Id": 5,
+    "Front": "Vertragsautonomie",
+    "Back": "Freiheit der Vertragsparteien, Inhalt, Form und Partner eines Vertrags selbst zu bestimmen. Einschränkungen durch Gesetze möglich.",
+    "Category": "Rechtswissen"
+  },
+  {
+    "Id": 6,
+    "Front": "Instandhaltungspflicht",
+    "Back": "Verpflichtung, eine Sache in gebrauchsfähigem Zustand zu erhalten. Trägt meist der Eigentümer oder Vermieter.",
+    "Category": "Rechtswissen"
+  },
+  {
+    "Id": 7,
+    "Front": "Subventionen",
+    "Back": "Subventionen sind finanzielle Zuschüsse oder Unterstützungszahlungen, die von Regierungen oder öffentlichen Institutionen an Unternehmen, Organisationen oder Einzelpersonen gewährt werden. Ziel ist es, bestimmte wirtschaftliche Aktivitäten zu fördern, wie etwa die Produktion von Gütern oder Dienstleistungen, die von gesellschaftlichem Interesse sind. Subventionen können in Form von direkten Zahlungen, Steuererleichterungen oder zinsgünstigen Krediten gewährt werden. Sie werden oft genutzt, um die Preise für Verbraucher zu senken, Arbeitsplätze zu schaffen oder umweltfreundliche Technologien zu unterstützen.",
+    "Category": "Finanzwesen"
+  },
+  {
+    "Id": 8,
+    "Front": "Ratendarlehen",
+    "Back": "sind Darlehen, bei denen der Kreditnehmer das geliehene Kapital in regelmäßigen, meist monatlichen Raten zurückzahlt. Jede Rate setzt sich dabei aus einem Zinsanteil und einem Tilgungsanteil zusammen. Zu Beginn sind die Zinsen höher, da sie auf den gesamten Darlehensbetrag berechnet werden, aber mit fortschreitender Rückzahlung sinkt der Zinsanteil und der Tilgungsanteil wird größer. Ratendarlehen sind eine gängige Finanzierungsform für Privatpersonen, zum Beispiel für den Kauf von Autos oder Konsumgütern, aber auch für größere Investitionen.",
+    "Category": "Finanzwesen"
+  },
+  {
+    "Id": 9,
+    "Front": "Underpinning Contract",
+    "Back": "Ein Underpinning Contract ist ein Vertrag, der die Grundlage für eine Hauptvereinbarung bildet und zusätzliche rechtliche Rahmenbedingungen oder Absicherungen für das zugrunde liegende Geschäft festlegt.",
+    "Category": "Vertragsrecht"
+  },
+  {
+    "Id": 10,
+    "Front": "Intervall",
+    "Back": "Ein Intervall ist der Zeitraum oder die Entfernung zwischen zwei Ereignissen oder Punkten. In der Mathematik bezeichnet es einen Abschnitt auf einer Zahlengerade, der durch zwei Grenzwerte begrenzt wird.",
+    "Category": "Allgemeinwissen"
+  },
+  {
+    "Id": 11,
+    "Front": "Anlagevermögen",
+    "Back": "Anlagevermägen umfasst langfristige Vermögenswerte eines Unternehmens, die für die betriebliche Tätigkeit genutzt werden und nicht für den kurzfristigen Verkauf bestimmt sind. Dazu gehören z. B. Grundstücke, Gebäude, Maschinen und Fahrzeuge.",
+    "Category": "Finanzwesen"
+  },
+  {
+    "Id": 12,
+    "Front": "Unternehmensbilanzen",
+    "Back": "Unternehmensbilanzen sind finanzielle übersichten, die die Vermögens- und Kapitalstruktur eines Unternehmens zu einem bestimmten Zeitpunkt darstellen. Sie setzen sich aus der Aktiva (Vermögenswerte) und der Passiva (Eigen- und Fremdkapital) zusammen und geben Aufschluss über die finanzielle Lage des Unternehmens.",
+    "Category": "Finanzwesen"
+  },
+  {
+    "Id": 13,
+    "Front": "File.Exists()",
+    "Back": "Die Methode File.Exists() in C# wird verwendet, um zu überprüfen, ob eine Datei im angegebenen Pfad existiert. Sie gibt einen booleschen Wert zurück-",
+    "Category": "Coding Csharp"
+  },
+  {
+    "Id": 14,
+    "Front": "XAML",
+    "Back": "XAML steht für Extensible Application Markup Language und ist eine deklarative Markup-Sprache, die verwendet wird, um Benutzeroberflächen zu erstellen. Sie wird hauptsächlich in .NET-Technologien wie WPF, UWP und Xamarin eingesetzt. Mit XAML definieren Entwickler das Layout und die Struktur einer Anwendung, während die Logik normalerweise in einer Programmiersprache wie C# geschrieben wird.",
+    "Category": "Coding Csharp"
+  },
+  {
+    "Id": 15,
+    "Front": "WPF",
+    "Back": "WPF, was für Windows Presentation Foundation steht, ist ein UI-Framework von Microsoft, das für die Entwicklung von Desktop-Anwendungen unter Windows verwendet wird. Es bietet eine leistungsstarke Umgebung zur Erstellung grafisch anspruchsvoller Benutzeroberflächen, einschließlich 2D- und 3D-Grafiken sowie Animationen und Datenbindung. WPF nutzt XAML für das Design und C# für die Anwendungslogik.",
+    "Category": "Coding Csharp"
+  },
+  {
+    "Id": 16,
+    "Front": "UWP",
+    "Back": "die Universal Windows Platform, ist eine Plattform von Microsoft, die es Entwicklern ermöglicht, Anwendungen zu erstellen, die auf allen Windows 10 Geräten laufen, wie PCs, Tablets, Smartphones und sogar Xbox. UWP verwendet ebenfalls XAML für das UI-Design und ermöglicht den Zugriff auf moderne Windows 10 Funktionen wie Cortana und Live-Tiles, während die Apps im Microsoft Store bereitgestellt werden.",
+    "Category": "Coding Csharp"
+  },
+  {
+    "Id": 17,
+    "Front": "XAML",
+    "Back": "XAML steht für Extensible Application Markup Language und ist eine deklarative Markup-Sprache, die verwendet wird, um Benutzeroberflächen zu erstellen. Sie wird hauptsächlich in .NET-Technologien wie WPF, UWP und Xamarin eingesetzt. Mit XAML definieren Entwickler das Layout und die Struktur einer Anwendung, während die Logik normalerweise in einer Programmiersprache wie C# geschrieben wird.",
+    "Category": "Coding Csharp"
+  }
+]
